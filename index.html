@@ -68,7 +68,15 @@ var TxtType = function(el, toRotate, period) {
         document.body.appendChild(css);
     };
 </script>
+<script>
+var admin = require("firebase-admin");
 
+var serviceAccount = require("path/to/serviceAccountKey.json");
+
+admin.initializeApp({
+  credential: admin.credential.cert(serviceAccount)
+});
+</script>
 
 <title>ixirstudio</title>
 <body>

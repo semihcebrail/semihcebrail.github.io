@@ -1,5 +1,5 @@
 # <? ixirstud(io); ?/>
-<img src="https://raw.githubusercontent.com/semihcebrail/semihcebrail.github.io/main/images/ixirstudio.jpg" max-width="40%" width="200px" />
+<img src="https://github.com/semihcebrail/semihcebrail.github.io/blob/main/images/ixirstudio.png?raw=true" max-width="100%" width="200px" />
 
 
 
